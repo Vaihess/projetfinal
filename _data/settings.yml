@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Licence 1', url: '/_posts/l1'}
+- {name: 'Licence 1', url: '_posts/l1'}
 - {name: 'Licence 2', url: 'l2'}
 - {name: 'Licence 3', url: 'l3'}
 - {name: 'Photos étranger', url: 'photo'}
