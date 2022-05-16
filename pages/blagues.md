@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Blagues
-permalink: /blagues
+title: Facts
+permalink: /facts
 ---
