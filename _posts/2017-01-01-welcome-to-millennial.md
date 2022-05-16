@@ -1,42 +1,71 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Licence 1"
+author: "Bibou"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Bienvenue sur la page des cours de Licence 1 (:
 
-## Getting Started
+## Matières communes : <br />
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Civilisation Britannique](https://vaihess.github.io/anglaisices/rodolphe) <br />
+[Civilisation Américaine](https://vaihess.github.io/anglaisices/civius) <br />
+[Compréhension Orale](https://kahoot.it/) <br />
+[Expression Ecrite](https://vaihess.github.io/anglaisices/ee) <br />
+[Français](https://vaihess.github.io/anglaisices/fr) <br />
+[Grammaire (cliquez à vos risques et périls)](https://vaihess.github.io/anglaisices/grammaire) <br />
+[Informatique](https://vaihess.github.io/anglaisices/info) <br />
+[Littérature Américaine](https://vaihess.github.io/anglaisices/fesses) <br />
+[Méthodologie Littéraire](https://vaihess.github.io/anglaisices/methlitt) <br />
+[Phonétique](https://vaihess.github.io/anglaisices/schwa) <br />
+[Public Speaking](https://vaihess.github.io/anglaisices/ps) <br />
+[QSA](https://vaihess.github.io/anglaisices/qsa) <br />
+[QSB](https://vaihess.github.io/anglaisices/qsb) <br />
+[Thème Anglais](https://vaihess.github.io/anglaisices/theme) <br />
+[Version anglaise](https://vaihess.github.io/anglaisices/version) <br />
 
-## Example Content
+## LV2 Espagnol : <br />
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
+[Civi](https://vaihess.github.io/anglaisices/civies) <br />
+[Thème](https://vaihess.github.io/anglaisices/themees) <br />
+[Version](https://vaihess.github.io/anglaisices/versiones) <br />
 
-## Questions?
+## LV2 Allemand : <br />
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+[Civi](https://vaihess.github.io/anglaisices/civide) <br />
+[Thème](https://vaihess.github.io/anglaisices/themede) <br />
+[Version](https://vaihess.github.io/anglaisices/versionde) <br />
 
-## More Jekyll!
+## LV2 Italien : <br />
 
-### Lagrange
+[Civi](https://vaihess.github.io/anglaisices/civiit) <br />
+[Thème](https://vaihess.github.io/anglaisices/themeit) <br />
+[Version](https://vaihess.github.io/anglaisices/versionit) <br />
 
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
+## Parcours Enseignement : <br />
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+[DME](https://vaihess.github.io/anglaisices/dme) <br />
+[FLE](https://vaihess.github.io/anglaisices/sinistroooos) <br />
+[FME](https://vaihess.github.io/anglaisices/fme) <br />
+[Primaire](https://vaihess.github.io/anglaisices/primaire) <br />
 
-### Portfolio Jekyll Theme
+## Parcours Communication : <br />
 
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
+[IMC](https://vaihess.github.io/anglaisices/imc) <br />
+[Marketing](https://vaihess.github.io/anglaisices/market) <br />
+[PPT](https://vaihess.github.io/anglaisices/pptcom) <br />
 
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
+## Parcours Traduction <br />
 
-### Jekyll Starter Kit
+[DMTI](https://vaihess.github.io/anglaisices/dmti) <br />
+[PPT](https://vaihess.github.io/anglaisices/ppttrad) <br />
+[Trad](https://vaihess.github.io/anglaisices/trad) <br />
 
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
+## Liens utiles <br />
 
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+[Emploi du temps](https://time.ices.fr/edt/) <br />
+[Destinations étranger](https://vaihess.github.io/anglaisices/voyagevoyage) <br />
+[Site ICES](https://ices.fr/) <br />
